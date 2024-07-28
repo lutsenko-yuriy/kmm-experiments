@@ -8,8 +8,9 @@ captures
 .cxx
 local.properties
 xcuserdata
-# Project exclude paths
-/androidApp/
-/gradle/
-/iosApp/
-/shared/
+/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/.shared-appleMain.cinteropLibraries
+/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/.shared-appleTest.cinteropLibraries
+/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/.shared-iosMain.cinteropLibraries
+/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/.shared-iosTest.cinteropLibraries
+/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/.shared-nativeMain.cinteropLibraries
+/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/.shared-nativeTest.cinteropLibraries
